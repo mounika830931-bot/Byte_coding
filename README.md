@@ -1,5 +1,7 @@
 Team Name:Smartslove
 Team members:M.Mounika,G.Vamsikrishna,Y.Vandana,P.vamasi
+
+
 Byte_coding
 The Learning Management System (LMS) is a web-based platform that connects students and teachers for digital learning and course management.
 User Registration & Login:
